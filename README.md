@@ -1,8 +1,10 @@
 ## Hi there! 👋   I'm Danny Palmeira 🤓
 
-I’m a front-end developer with a passion for solving problems through code and creating seamless web experiences. I love bringing ideas to life, always focusing on efficiency and user-friendly design. My projects reflect my passion for clean code and continuous learning. I'm currently working on improving my skills.
+I'm a front-end developer driven by curiosity and a love for clean, efficient code. I enjoy turning ideas into smooth, responsive web experiences that feel intuitive and engaging. Whether it’s building from scratch or refining existing features, I always aim for performance, clarity, and a user-first approach.
 
-When I'm not developing and coding, you can find me watching TV (series, movies, documentaries), dancing or reading.
+My repositories reflect an ongoing journey of learning and experimenting — from UI design to performance optimization. I’m currently sharpening my skills, diving deeper into modern frameworks and best practices.
+
+When I’m not coding, I’m probably lost in a good documentary, dancing around the living room, or flipping through the pages of a new book.
 
 ##
 
